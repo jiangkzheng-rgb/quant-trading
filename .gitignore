@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.pyc
+.env
+.claude/
+.ruff_cache/
+reports/backtest_v2_results.json
